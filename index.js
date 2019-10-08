@@ -31,3 +31,8 @@ var parsed = parseInt(n ,10)
 return parsed;
 }
 makeInt(5)
+
+function preserveDecimal(n){
+  return parseFloat(n)
+}
+preserveDecimal(4.5);
