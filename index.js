@@ -27,7 +27,7 @@ return n;
 inc(85);
 
 function maktInt(n){
-return parseInt(n)
+return parseInt('n')
 }
-inc('5');
+inc(5);
 
