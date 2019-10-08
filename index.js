@@ -26,7 +26,7 @@ return n;
 }
 inc(85);
 
-function makteInt(n){
+function maketInt(n){
 var parsed = parseInt(n)
 return parsed;
 }
