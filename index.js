@@ -30,4 +30,4 @@ function maketInt(n){
 var parsed = parseInt(n)
 return parsed;
 }
-makteInt(5)
+maketInt(5)
