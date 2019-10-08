@@ -26,8 +26,8 @@ return n;
 }
 inc(85);
 
-function maktInt(n){
-return parseInt('n')
+function makteInt(n){
+var parsed = parseInt(n)
+return parsed;
 }
-
-
+makteInt(5)
