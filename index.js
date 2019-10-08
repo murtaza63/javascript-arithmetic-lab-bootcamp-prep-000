@@ -27,7 +27,7 @@ return n;
 inc(85);
 
 function makeInt(n){
-var parsed = parseInt(n)
+var parsed = parseInt(n ,10)
 return parsed;
 }
 makeInt(5)
