@@ -26,8 +26,8 @@ return n;
 }
 inc(85);
 
-function maketInt(n){
+function makeInt(n){
 var parsed = parseInt(n)
 return parsed;
 }
-maketInt(5)
+makeInt(5)
